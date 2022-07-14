@@ -1,0 +1,4 @@
+#inclide<studio.h>
+#include<stdlib.h>
+#include<sys/socket.h>
+#include<netinet.h>
